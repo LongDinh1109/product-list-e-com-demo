@@ -40,16 +40,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
 Approach:
 
 - Used TypeScript for type safety and better developer experience
 - Implemented Redux Toolkit for centralized state management
-- Created reusable components (Card, Filter, Sort) for - maintainability
+- Created reusable components (Grid, Card, Filter, Sort) for - maintainability
 - Used Material-UI for consistent styling and responsive design
 - Implemented server-side pagination to handle large datasets efficiently
 - Added MirageJS for API mocking during development and testing

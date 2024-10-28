@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Phone"
+  },
+  {
+    "id": 2,
+    "name": "Earphone"
+  },
+  {
+    "id": 3,
+    "name": "Tablet"
+  },
+  {
+    "id": 4,
+    "name": "Laptop"
+  },
+  {
+    "id": 5,
+    "name": "Mouse"
+  }
+]

@@ -44,3 +44,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Approach:
+
+- Used TypeScript for type safety and better developer experience
+- Implemented Redux Toolkit for centralized state management
+- Created reusable components (Card, Filter, Sort) for - maintainability
+- Used Material-UI for consistent styling and responsive design
+- Implemented server-side pagination to handle large datasets efficiently
+- Added MirageJS for API mocking during development and testing
+
+Key Technical Decisions:
+
+- Component-based architecture for better code organization
+- Custom hooks for shared logic
+- Redux Thunk for handling async operations
+- Jest and React Testing Library for comprehensive testing

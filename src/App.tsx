@@ -55,12 +55,6 @@ function App() {
     },
   });
 
-
-
-  // const handleClose = () => {
-  //   setOpen(false);
-  // };
-
   return (
     <ThemeProvider theme={theme}>
       <div className="App">
